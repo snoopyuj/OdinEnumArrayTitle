@@ -6,7 +6,8 @@ Name the elements in the array according to the enum.
 > _Created: August 13, 2022_  
 > _Tags: C#, Unity3D_
 
-> Note: This plugin needs to be used together with the [`Odin Inspector`](https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041) plugin to work.
+> Note: This plugin needs to be used together with the [`Odin Inspector`](https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041) plugin to work.  
+> If you want to use similar features in native Unity, please check out [`BInspector.ArrayElementTitle`](https://github.com/snoopyuj/BInspector#array-element-title).
 
 ## Installation
 
