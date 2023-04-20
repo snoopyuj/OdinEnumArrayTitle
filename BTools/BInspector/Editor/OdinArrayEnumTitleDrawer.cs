@@ -10,7 +10,7 @@ using UnityEngine;
 namespace BTools.BInspector
 {
     /// <summary>
-    /// 將陣列中的元素標題依照 enum 取名
+    /// Rename the titles of the elements in the array according to the enum.
     /// </summary>
     public sealed class OdinArrayEnumTitleDrawer : OdinAttributeDrawer<OdinArrayEnumTitleAttribute>
     {
@@ -42,7 +42,7 @@ namespace BTools.BInspector
         }
 
         /// <summary>
-        /// 取得 Property 於陣列中的索引值, 若不是陣列元素則回傳 -1
+        /// Get the index of a property in the array, returns -1 if the property is not an element of the array.
         /// </summary>
         /// <param name="_property"> Property </param>
         /// <returns> Index </returns>
