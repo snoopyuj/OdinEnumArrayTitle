@@ -31,6 +31,7 @@ public enum DirectionType : byte
 [OdinArrayEnumTitle(typeof(DirectionType))]
 public Vector3[] vectorArray = new Vector3[0];
 ```
+![Preview](./BTools/BInspector/Demo/demo.png)
 
 ![Demo](./BTools/BInspector/Demo/demo.gif)
 
